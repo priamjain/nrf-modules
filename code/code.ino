@@ -49,6 +49,7 @@ while ( network.available())
     //senddata(pdrx);
     delay(500);
 }
+//my name is priam
 /*
 pdnode.motion = digitalRead(pir);
 if(digitalRead(pir))
